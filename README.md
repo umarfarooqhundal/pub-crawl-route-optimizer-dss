@@ -12,6 +12,9 @@ Excel-based Decision Support System (DSS) that computes the **shortest path** be
 
 ## 🛠 Tech
 **Excel (.xlsm), VBA**, Geodesic distance function, Dijkstra’s algorithm
+[Report.pdf](https://github.com/user-attachments/files/21676743/Report.pdf)
+[Report.pdf](https://github.com/user-attachments/files/21676735/Report.pdf)
+[MN50750 Assignment 2 - Building a Decision Support System For Pub Crawlers.pdf](https://github.com/user-attachments/files/21676733/MN50750.Assignment.2.-.Building.a.Decision.Support.System.For.Pub.Crawlers.pdf)
 
 ## 📦 Files
 - `PubCrawl_DSS.xlsm` – main tool (enable macros)
@@ -21,7 +24,8 @@ Excel-based Decision Support System (DSS) that computes the **shortest path** be
 ## ▶️ How to Run
 1. Download `PubCrawl_DSS.xlsm`
 2. Open in **Excel (Windows)** and **Enable Macros**
-3. On the *Optimal Path* sheet:
+3. On the *Optimal Path* sheet:<img width="460" height="159" alt="Screenshot 2025-08-08 040050" src="https://github.com/user-attachments/assets/f9a61bae-a5ab-487e-bb11-8ff38dc4f124" />
+
    - Pick **Origin Pub** and **Destination Pub** from dropdowns
    - Click **Start** to compute shortest route
    - Use **Reset** to clear and run another trial
